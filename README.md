@@ -1,4 +1,4 @@
 inventario
 ==========
 
-Sistema de compras ventas usando Spring e Hibernate
+Sistema de compras ventas usando Spring e Hibernate (JPA)
